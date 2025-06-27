@@ -16,13 +16,6 @@ This project demonstrates a basic implementation of GAN for generating synthetic
 - 🛠️ Easily customizable for other domains (text, audio, etc.)
 
 
-
-🖼️ Sample Results
-
-| Epoch 1 | Epoch 50 | Epoch 100 |
-|--------|----------|-----------|
-| ![E1](results/epoch_1.png) | ![E50](results/epoch_50.png) | ![E100](results/epoch_100.png) |
-
 🧰 Tech Stack
 
 - Python 🐍  
