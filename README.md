@@ -1,4 +1,4 @@
-🎨 GENERATIVE ADVERSARIAL NETWORK (GAN)
+🎨 GENERATIVE ADVERSARIAL NETWORK (GAN) FOR IMAGE GENERATION
 
 A **Generative Adversarial Network (GAN)** is a deep learning model composed of two neural networks — a **Generator** and a **Discriminator** — that compete with each other in a game-theoretic setup. The Generator learns to produce realistic synthetic data, while the Discriminator attempts to distinguish between real and fake data.
 
